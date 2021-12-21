@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-music/static/css/main.8eaed451.css",
+    "main.js": "/react-music/static/js/main.d85a9876.js",
+    "static/js/787.b384255a.chunk.js": "/react-music/static/js/787.b384255a.chunk.js",
+    "index.html": "/react-music/index.html",
+    "main.8eaed451.css.map": "/react-music/static/css/main.8eaed451.css.map",
+    "main.d85a9876.js.map": "/react-music/static/js/main.d85a9876.js.map",
+    "787.b384255a.chunk.js.map": "/react-music/static/js/787.b384255a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eaed451.css",
+    "static/js/main.d85a9876.js"
+  ]
+}
